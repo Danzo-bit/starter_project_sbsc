@@ -1,4 +1,4 @@
-# internet_intranet
+# Project Name
 
 A new Flutter project.
 
